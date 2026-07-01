@@ -147,8 +147,8 @@ Active volunteer supporting IEEE events and activities.
 
 | Project | Stack | Description |
 |---|---|---|
-| **Anime Website Design** | HTML, CSS, Figma | A themed website design/build focused on clean, engaging UI for anime content. |
-| **Food Delivery Website** | HTML, CSS, JavaScript | A front-end concept for a food ordering and delivery platform. |
+| **Anime Website Design** | Figma | A themed website design/build focused on clean, engaging UI for anime content. |
+| **Food Delivery Website** |Figma | A  food ordering and delivery platform. |
 | **Mind Mithra (Mobile App Design)** | Figma | UI/UX design for a mobile application concept. |
 | **Admin Dashboard UI Design** | Figma | Dashboard interface design focused on usability and data clarity. |
 
@@ -176,7 +176,7 @@ Active volunteer supporting IEEE events and activities.
 **Bachelor of Information and Communication Technology (BICT)**
 University of Vavuniya
 
-**Currently Learning:** Data Structures & Algorithms · NestJS · UI/UX Design Systems
+**Currently Learning:** UI/UX Design Systems
 
 ---
 
