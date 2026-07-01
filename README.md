@@ -138,8 +138,8 @@ Participated in IEEE events and activities, contributing to organization and exe
 
 | Project | Stack | Description |
 |---|---|---|
-| **Anime Website Design** | HTML, CSS, JavaScript | A themed front-end website design showcasing UI layout and styling skills. |
-| **Food Delivery Website** | HTML, CSS, JavaScript | A concept website for browsing and ordering food, focused on clean UI/UX. |
+| **Anime Website Design** | Figma | A themed front-end website design showcasing UI layout and styling skills. |
+| **Food Delivery Website** | Figma | A concept website for browsing and ordering food, focused on clean UI/UX. |
 | **Mind Mithra — Mobile App Design** | Figma | A mobile app UI/UX design project centered on mental wellness and user support. |
 | **Admin Dashboard UI Design** | Figma | A dashboard interface design emphasizing usability and clear data visualization. |
 
